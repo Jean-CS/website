@@ -25,10 +25,6 @@ module.exports = {
         name: `linkedin`,
         url: `https://linkedin.com/in/jean-santos-dev/`,
       },
-      {
-        name: `resume`,
-        url: `https://jeancs.com/resume`,
-      },
     ],
   },
   plugins: [
