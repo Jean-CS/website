@@ -3,9 +3,9 @@ module.exports = {
     title: `Jean CS`,
     name: `Website and Blog`,
     siteUrl: `https://jeancs.com`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `Software Engineer working with React and Python.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Hi! Enjoy your stay and check out some of my blog posts!`,
       maxWidth: 652,
     },
     social: [
@@ -29,11 +29,11 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "@narative/gatsby-theme-novela",
+      resolve: '@narative/gatsby-theme-novela',
       options: {
-        contentPosts: "content/posts",
-        contentAuthors: "content/authors",
-        basePath: "/",
+        contentPosts: 'content/posts',
+        contentAuthors: 'content/authors',
+        basePath: '/',
         authorsPage: true,
         sources: {
           local: true,

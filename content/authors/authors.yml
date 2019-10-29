@@ -1,17 +1,15 @@
-- name: Dennis Brotzky
+- name: Jean Carlos
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+    I'm a Software Engineer working with React and Python. There's much 
+    to learn and this is where I share my thoughts.
+  avatar: ./avatars/jean-carlos.jpg
   featured: true
   social:
     - name: github
-      url: https://github.com
+      url: https://github.com/Jean-CS
     - name: twitter
-      url: https://github.com
+      url: https://twitter.com/Jean_CSx
     - name: instagram
-      url: https://github.com
-    - name: dribbble
-      url: https://github.com
+      url: https://www.instagram.com/jean.santos37/
     - name: linkedin
-      url: https://github.com
+      url: https://linkedin.com/in/jean-santos-dev/
